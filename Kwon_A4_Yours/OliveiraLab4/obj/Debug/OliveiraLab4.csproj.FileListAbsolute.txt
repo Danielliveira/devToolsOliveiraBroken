@@ -1,0 +1,30 @@
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\bin\Debug\OliveiraLab4.exe.config
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\bin\Debug\OliveiraLab4.exe
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\bin\Debug\OliveiraLab4.pdb
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.AssemblyReference.cache
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.SuggestedBindingRedirects.cache
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.Form1.resources
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.Properties.Resources.resources
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.GenerateResource.cache
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.CoreCompileInputs.cache
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.exe
+C:\0-Fall2022\C#\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.pdb
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\bin\Debug\OliveiraLab4.exe.config
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\bin\Debug\OliveiraLab4.exe
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\bin\Debug\OliveiraLab4.pdb
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.AssemblyReference.cache
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.SuggestedBindingRedirects.cache
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.Form1.resources
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.Properties.Resources.resources
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.GenerateResource.cache
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.CoreCompileInputs.cache
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.exe
+C:\0-Fall2022\C#\Labs\OliveiraLab4\OliveiraLab4\obj\Debug\OliveiraLab4.pdb
+C:\Users\kangk\OneDrive\Área de Trabalho\Kwon_A4_Yours\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.AssemblyReference.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\Kwon_A4_Yours\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\Kwon_A4_Yours\OliveiraLab4\obj\Debug\OliveiraLab4.Form1.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\Kwon_A4_Yours\OliveiraLab4\obj\Debug\OliveiraLab4.Properties.Resources.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\Kwon_A4_Yours\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.GenerateResource.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\Kwon_A4_Yours\OliveiraLab4\obj\Debug\OliveiraLab4.csproj.CoreCompileInputs.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\Kwon_A4_Yours\OliveiraLab4\obj\Debug\OliveiraLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\Kwon_A4_Yours\OliveiraLab4\obj\Debug\OliveiraLab4.pdb
