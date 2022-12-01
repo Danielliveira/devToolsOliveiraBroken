@@ -130,7 +130,7 @@ namespace OliveiraLab4
             }
 
             //Validating the range
-            else if (people < 0 || people > 10000)
+            else if (people < 0 || people > 10)
             {
                 DisplayMsg(2);
             }
@@ -163,7 +163,7 @@ namespace OliveiraLab4
                 {
                     price = people * 2150.50;
                     location = "Cuba\n";
-                    flight = "Flight included"
+                    flight = "Flight included";
                     cashDiscount = null;
                 }
 
@@ -191,7 +191,7 @@ namespace OliveiraLab4
                 {
                     price = people * 2300.79;
                     location = "Mexico\n";
-                    flight = "Flight included"
+                    flight = "Flight included";
                     price = price - (price * 0.1);
                     cashDiscount = "\nCash discount Applied";
                 }
@@ -221,7 +221,7 @@ namespace OliveiraLab4
         {
             DisplayMsg(4);
             grpBook.Enabled = true;
-            ResetTrip()
+            ResetTrip();
         }
 
         //Hide the lblDisplay
